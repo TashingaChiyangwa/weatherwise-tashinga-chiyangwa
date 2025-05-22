@@ -1,0 +1,10 @@
+----------------------------------
+Tool: ChatGPT
+Date: 2025-04-15
+----------------------------------
+
+Me: How do I parse temperature from this weather JSON?
+AI: You can use `weather["current_condition"][0]["temp_C"]` to get the temperature.
+
+Me: What if it’s missing?
+AI: Add error handling using `try/except`...

@@ -1,10 +1,12 @@
 ----------------------------------
 Tool: ChatGPT
-Date: 2025-04-15
+Date: 2025-05-22
 ----------------------------------
 
-Me: How do I parse temperature from this weather JSON?
-AI: You can use `weather["current_condition"][0]["temp_C"]` to get the temperature.
+Me: What do I do if the URL for my weather app times out?
+AI: If the URL for your weather app (e.g., https://wttr.in/...) times out, 
+here are practical steps to handle and resolve the issue.
 
-Me: What if it’s missing?
-AI: Add error handling using `try/except`...
+Me: Is there a possibility these options might not work?
+AI: Yes, there is a possibility that even these options might not work, 
+depending on the underlying issue.

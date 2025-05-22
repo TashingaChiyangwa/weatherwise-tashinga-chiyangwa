@@ -1,10 +1,12 @@
 ----------------------------------
 Tool: ChatGPT
-Date: 2025-04-15
+Date: 2025-05-22
 ----------------------------------
 
-Me: How do I parse temperature from this weather JSON?
-AI: You can use `weather["current_condition"][0]["temp_C"]` to get the temperature.
+Me: Why is the plot function failing with KeyError: 'Avg Temp(°C)'?
+AI: The DataFrame might not have the expected column name due to missing or mismatched 
+data in the API response or the transformation step. 
 
-Me: What if it’s missing?
-AI: Add error handling using `try/except`...
+Me: How exactly do I go about fixing this?
+AI: Ensure that your transformation function (weather_to_dataframe) creates the right 
+column. You can also check the column names before plotting. 

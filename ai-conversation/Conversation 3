@@ -1,10 +1,11 @@
 ----------------------------------
 Tool: ChatGPT
-Date: 2025-04-15
+Date: 2025-05-22
 ----------------------------------
 
-Me: How do I parse temperature from this weather JSON?
-AI: You can use `weather["current_condition"][0]["temp_C"]` to get the temperature.
+Me: Why does the app crash with a JSONDecodeError?
+AI: The API might return non-JSON data (e.g, an HTML error page or plain text) even though 
+the HTTP status is 200
 
-Me: What if it’s missing?
-AI: Add error handling using `try/except`...
+Me: What is the solution to this problem?
+AI: Catch the error and inspect the raw response. 

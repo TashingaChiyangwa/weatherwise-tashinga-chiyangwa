@@ -1,10 +1,12 @@
 ----------------------------------
 Tool: ChatGPT
-Date: 2025-04-15
+Date: 2025-05-22
 ----------------------------------
 
-Me: How do I parse temperature from this weather JSON?
-AI: You can use `weather["current_condition"][0]["temp_C"]` to get the temperature.
+Me: Why does my app crash with a TypeError: 'NoneType' object is not subscriptable? 
+AI: This happens when your code tries to access elements like data['weather'][0], but data is 
+None. This usually means the API call failed and returned None, but your code didn't handle 
+it before trying to use the result.
 
-Me: What if it’s missing?
-AI: Add error handling using `try/except`...
+Me: How can l fix this?
+AI: Always validate the response before using it. 

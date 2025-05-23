@@ -1,6 +1,6 @@
 ---
 title: "Project Completion Checklist"
-author: "Michael Borck"
+author: "Tashinga Chiyangwa"
 format: 
   pdf:
     toc: false
@@ -19,8 +19,8 @@ Use this checklist to track your progress and ensure your Weather Advisor projec
 ## Repository Setup
 
 - [✅] Repository created from template
-- [ ] README.md updated with your project information
-- [ ] Instructor (michael-borck) invited to your repository
+- [✅] README.md updated with your project information
+- [✅] Instructor (michael-borck) invited to your repository
 
 ## Notebook Organisation
 
@@ -64,10 +64,10 @@ Use this checklist to track your progress and ensure your Weather Advisor projec
 
 ## AI Interaction Documentation
 
-- [ ] PROMPTING.md file completed with detailed examples
-- [ ] At least 5 significant AI conversations documented
-- [ ] Conversations saved as text files in the repository
-- [ ] Demonstrates at least 5 different intentional prompting techniques
+- [✅] PROMPTING.md file completed with detailed examples
+- [✅] At least 5 significant AI conversations documented
+- [✅] Conversations saved as text files in the repository
+- [✅] Demonstrates at least 5 different intentional prompting techniques
 - [✅] Six-step methodology documented for at least one component
 - [✅] 3 clear before/after examples included
 
@@ -90,14 +90,14 @@ Use this checklist to track your progress and ensure your Weather Advisor projec
 ## Documentation Quality
 
 - [✅] Code is well-commented with meaningful docstrings
-- [ ] README.md provides clear overview and instructions
+- [✅] README.md provides a clear overview and instructions
 - [✅] PROMPTING.md shows thoughtful AI interaction
 - [✅] Reflection document (300-500 words) included
 - [✅] All required files are present and properly formatted
 
 ## Submission
 
-- [ ] Final version of notebook saved to GitHub
+- [✅] Final version of notebook saved to GitHub
 - [✅] All AI conversation files included
 - [✅] PROMPTING.md file completed
 - [✅] Reflection document included

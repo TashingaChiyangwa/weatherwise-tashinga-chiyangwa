@@ -18,14 +18,20 @@ Welcome to the **WeatherWise Assignment Starter Template**! This repository help
 
 ## 📁 Folder Structure
 
-- `starter_notebook.ipynb` — Main notebook to build your project.
+- `weatherwise_Tashinga_Chiyangwa.ipynb` — Main notebook where l built my project.
 - `ASSIGNMENT.md` — Full assignment specification.
 - `ai-conversations/` — Save your `.txt` AI conversations here.
 - `resources/` — Guides, prompting tips, and AI technique examples.
-- `submission/` — Files to help you finalise your submission:
-  - `checklist-md.md` — Submission checklist
-  - `reflection.md` — Write your 300–500 word project reflection
-  - `one-page-summary.md` — (Optional) Your own summary of key ideas or process
+- `ai-conversation/` — This folder contains my `.txt` AI conversations :
+  - `Conversation 1.txt` 
+  - `Conversation 2.txt` 
+  - `Conversation 3.txt` 
+  - `Conversation 4.txt`
+  - `Conversation 5.txt`
+- `before-after examples` — This folder offers 3 `.md` examples of refined code. 
+  - `before-after-example 1`
+  - `before-after-example 2`
+  - `before-after-example 3`
 
 ---
 

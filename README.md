@@ -20,9 +20,9 @@ Welcome to the **WeatherWise Assignment Starter Template**! This repository help
 
 - `weatherwise_Tashinga_Chiyangwa.ipynb` — Main notebook where l built my project.
 - `ASSIGNMENT.md` — Full assignment specification.
-- `ai-conversations/` — Save your `.txt` AI conversations here.
-- `resources/` — Guides, prompting tips, and AI technique examples.
-- `ai-conversation/` — This folder contains my `.txt` AI conversations :
+- `Reflection/` — This section contains a written reflection on the assignment. 
+- `Checklist/` — This `.md` file contains all items required in the assignment. 
+- `ai-conversation/` — This folder contains my 5 `.txt` AI conversations :
   - `Conversation 1.txt` 
   - `Conversation 2.txt` 
   - `Conversation 3.txt` 

@@ -8,18 +8,12 @@ Welcome to the **WeatherWise Assignment Starter Template**! This repository help
 
 ---
 
-## 🚀 How to Use This Template
-
-1. Click **"Use this template"** on GitHub to create your own copy.
-2. Rename your repository to something like `weatherwise-jane-doe`.
-3. Clone it and start developing in `starter_notebook.ipynb`.
-
 ---
 
 ## 📁 Folder Structure
 
 - `weatherwise_Tashinga_Chiyangwa.ipynb` — Main notebook where l built my project.
-- `ASSIGNMENT.md` — Full assignment specification.
+- `TashingaChiyangwaWeatherWiseApplication` — Full assignment code (Google Colab)
 - `Reflection/` — This section contains a written reflection on the assignment. 
 - `Checklist/` — This `.md` file contains all items required in the assignment. 
 - `ai-conversation/` — This folder contains my 5 `.txt` AI conversations :
@@ -35,35 +29,19 @@ Welcome to the **WeatherWise Assignment Starter Template**! This repository help
 
 ---
 
-📄 **Quick Overview:**  
-A one-page summary of the full assignment is available in [`resources/assignment-summary.md`](resources/assignment-summary.md).
-
 ---
 
 ## 📓 Submission Checklist
 
 ✅ Complete all required functions  
-✅ Include at least 5 AI conversations in `ai-conversations/`  
-✅ Document your intentional prompting  
-✅ Fill in your project reflection in `submission/reflection-template.md`  
-✅ Zip your project and upload it to the LMS  
+✅ Included at least 5 AI conversations in `ai-conversations/`  
+✅ Documented intentional prompting  
+✅ Filled in the project reflection in `/reflection-template.md`  
+✅ Zip my project and upload it to the LMS  
 
 ---
 
 🧠 AI Conversations  
-Save your AI interactions in the `ai-conversations/` folder.  
-See `ai-conversations/how-to-log-ai-conversations.md` for details.
-
+Saved all AI interactions in the `ai-conversations/` folder.  
 
 --
-## 🧠 Need Help with AI Prompts?
-
-Check out:
-Check out:
-- `resources/ai-tips-tricks.md` — Prompting tips and pitfalls
-- `resources/sample-prompting-journey.md` — Full example of AI-enhanced development
-- `resources/prompts-by-method-step.md` — Prompts aligned with the 6-step dev process
-- `resources/before-after-example.md` — Required: Show how your prompting improved AI-generated code
-
-
-Good luck and have fun! 💡🌤️
